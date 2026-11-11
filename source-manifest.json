@@ -1,0 +1,92 @@
+[
+  {
+    "path": "AGENTS.md",
+    "sha256": "81ea9d35049388307c4dc2f6867a4b5e5a52c5000d5ac4579d26c5bf08adbeb2",
+    "bytes": 1007
+  },
+  {
+    "path": "AndroidManifest.xml",
+    "sha256": "713e7e129f3c905f739e1c50890ad330583645bacfa60b39e2f01e4ba78ddc26",
+    "bytes": 1794
+  },
+  {
+    "path": "README.md",
+    "sha256": "b8481398df71e239928a4737c0d94972384b4bcac9e7ef8e17d964fc5c5e61ea",
+    "bytes": 3544
+  },
+  {
+    "path": "build-android.ps1",
+    "sha256": "45aced4cb724a8d7529ad6bb7b65a71fe096d2dbe92690bc2eaad0acff87313c",
+    "bytes": 3912
+  },
+  {
+    "path": "res/drawable/app_icon.xml",
+    "sha256": "b09185729959e1f2d354a7d9b5d20ceb964046451f89602ebf7ee15b9ab48ea1",
+    "bytes": 520
+  },
+  {
+    "path": "res/drawable/ic_notification.xml",
+    "sha256": "a81b4618ca8fb2d3e9cbda7f07311931864f2ba80329c309c52c99efb6773c59",
+    "bytes": 354
+  },
+  {
+    "path": "res/drawable/notification_flag.xml",
+    "sha256": "82081b1e801b1b7fec8ca904fc395bb03dc6210d4c623d0d33a5cc4d63a67cfa",
+    "bytes": 516
+  },
+  {
+    "path": "res/layout/notification_flag.xml",
+    "sha256": "05e9c3568a1d8b2c6977361bbeb2be07455b2171a87c94ee2d04aa0d108a4317",
+    "bytes": 1135
+  },
+  {
+    "path": "res/values/styles.xml",
+    "sha256": "b176e42050d4c95a487fb8e4c120b20f4c0eb5a59118f0a208ef0ccaa8f61a6d",
+    "bytes": 503
+  },
+  {
+    "path": "setup-android.ps1",
+    "sha256": "3de7559e0a2baf435428ead6024c224995a88aa53a301b7eb5c0c4a873430692",
+    "bytes": 1589
+  },
+  {
+    "path": "src/socialtap/bluewhite/android/Api.java",
+    "sha256": "07af87830d352d646191e555b4de40be46afa9ebd5ac5616bbf476a5bbb4ee35",
+    "bytes": 13452
+  },
+  {
+    "path": "src/socialtap/bluewhite/android/ApiOrigin.java",
+    "sha256": "8373b9356e43802fdeac406935f014344357fac37f1344e19ea7ccabc7070736",
+    "bytes": 388
+  },
+  {
+    "path": "src/socialtap/bluewhite/android/AttachmentProvider.java",
+    "sha256": "332db3cfa5d1c25d3bbd39e1b465f70203c00a48a7ea9c2bc8417df1a8ebef12",
+    "bytes": 2438
+  },
+  {
+    "path": "src/socialtap/bluewhite/android/ChatRules.java",
+    "sha256": "c39ff770b03120064eec90375ad9c76585fd1ce7297ba6f4d666a6513d1cccdf",
+    "bytes": 2301
+  },
+  {
+    "path": "src/socialtap/bluewhite/android/MainActivity.java",
+    "sha256": "567e3142689c14078906b06976e05d5a301018cc7823c86a14e15141885dbd7c",
+    "bytes": 27169
+  },
+  {
+    "path": "src/socialtap/bluewhite/android/MessageService.java",
+    "sha256": "2700138eb8524adb75405e281aed3f650d16d5eeed63988b2c00a821048086e8",
+    "bytes": 10879
+  },
+  {
+    "path": "test-android.ps1",
+    "sha256": "2e9f69be702c6b1d8a357322118a838704e2f1e0abad26335101ac9227493d67",
+    "bytes": 808
+  },
+  {
+    "path": "tests/ChatRulesTest.java",
+    "sha256": "a0fb41d446700d141d10ffd6bbecf1c1ecf136c5facf12d79c20c89f5b38ac46",
+    "bytes": 3861
+  }
+]
